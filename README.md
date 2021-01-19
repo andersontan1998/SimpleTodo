@@ -22,7 +22,21 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+The user can **view a list of ToDo items**
+
 <img src='viewing_todo_list.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+The user can **successfully add and remove items from the todo list**
+
+<img src='add_remove_items.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+The app **persist todo items and retrieve them properly on app restart**
+
+<img src='restart_app.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+The user can **edit the text of an item added to the list by tapping on a todo item which brings up an edit screen**
+
+<img src='editing_feature.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -32,7 +46,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Anderson Tan]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
