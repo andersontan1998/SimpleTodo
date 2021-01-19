@@ -34,7 +34,7 @@ The app **persist todo items and retrieves them properly on app restart.**
 
 <img src='restart_app.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-The user can **edit the text of an item added to the list by tapping on a todo item which brings up an edit screen.**
+The user can **edit the text of an item added to the list** by **tapping on a todo item** which brings up an edit screen.**
 
 <img src='editing_feature.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
