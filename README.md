@@ -22,19 +22,19 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-The user can **view a list of ToDo items**
+The user can **view a list of ToDo items.**
 
 <img src='viewing_todo_list.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-The user can **successfully add and remove items from the todo list**
+The user can **successfully add and remove items from the todo list.**
 
 <img src='add_remove_items.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-The app **persist todo items and retrieve them properly on app restart**
+The app **persist todo items and retrieves them properly on app restart.**
 
 <img src='restart_app.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-The user can **edit the text of an item added to the list by tapping on a todo item which brings up an edit screen**
+The user can **edit the text of an item added to the list by tapping on a todo item which brings up an edit screen.**
 
 <img src='editing_feature.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
